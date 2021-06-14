@@ -69,4 +69,4 @@
 
 # Links
 [BackEnd (Current)](https://git.generalassemb.ly/rahaf-alawwad/Picial_BackEnd) 
-[BackEnd (Current)](https://git.generalassemb.ly/rahaf-alawwad/Picial_frontEnd) 
+[FrontEnd ](https://git.generalassemb.ly/rahaf-alawwad/Picial_frontEnd) 
